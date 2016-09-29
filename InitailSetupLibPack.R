@@ -16,7 +16,7 @@ if(!require(installr))
 }
 updateR(F,T,T,F,T,F,T)
 
-### to update
+### to update 
 
 update.packages(checkBuilt = TRUE,ask=FALSE)
 
